@@ -57,8 +57,8 @@ Here are some frameworks I love to work with:
 
 ## 🛠 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frozen&show_icons=true&theme=radical" alt="Frozen's GitHub stats" width="48%" style="box-shadow: 0 0 25px rgba(78, 160, 255, 0.3);"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frozen&theme=radical" alt="Frozen's GitHub streak stats" width="48%" style="box-shadow: 0 0 25px rgba(6, 230, 687, 0.3);"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=radical" alt="Frozen's GitHub stats" width="48%" style="box-shadow: 0 0 25px rgba(78, 160, 255, 0.3);"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frozen-ux&theme=radical" alt="Frozen's GitHub streak stats" width="48%" style="box-shadow: 0 0 25px rgba(6, 230, 687, 0.3);"/>
 </p>
 
 ## 🎨 Designs & Projects
