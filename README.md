@@ -65,40 +65,18 @@ Here are some frameworks I love to work with:
 
 Here are some of my favorite projects:
 
-1. **Retail ERP Management System**
-   - **Description**: This project aims to develop a comprehensive Enterprise Resource Planning (ERP) system tailored for retail businesses. The system integrates various modules, including inventory management, sales tracking, customer relationship management, and reporting features to enhance operational efficiency.
-   - **Technologies Used**: 
-     - **Frontend**: React, Bootstrap
-     - **Backend**: Node.js, Express
-     - **Database**: MongoDB
-   - **Key Features**:
-     - Real-time inventory tracking
-     - Automated sales reports
-     - Customer management with CRM functionalities
-     - User-friendly interface with role-based access
+ 1. **Retail ERP Management System**  🛒
+   - **🔍 Description**: This project aims to develop a comprehensive **Enterprise Resource Planning (ERP)** system tailored for retail businesses. The system integrates various modules, including inventory management, sales tracking, customer relationship management, and reporting features to enhance operational efficiency.
+  ---
+     #### 2. **Concrete Business Management System**  🏗️
+   - **🔍 Description**: This project focuses on creating a management system for a concrete supply business. It streamlines the order processing, production scheduling, and delivery management processes, ensuring timely delivery and better resource allocation.
+    
 
-2. **Concrete Business Management System**
-   - **Description**: This project focuses on creating a management system for a concrete supply business. It streamlines the order processing, production scheduling, and delivery management processes, ensuring timely delivery and better resource allocation.
-   - **Technologies Used**: 
-     - **Frontend**: Angular, Material Design
-     - **Backend**: Spring Boot
-     - **Database**: MySQL
-   - **Key Features**:
-     - Order tracking and history
-     - Production planning and scheduling
-     - Delivery route optimization
-     - Comprehensive reporting tools for performance analysis
+---
 
-3. **Aviation VIP Aircraft Design**
-   - **Description**: This project involves designing a concept for a VIP aircraft that emphasizes luxury and functionality. The design process includes interior layout planning, material selection, and user experience optimization for high-profile clients.
-   - **Technologies Used**: 
-     - **Design Software**: AutoCAD, SketchUp
-     - **Visualization Tools**: Blender, Adobe Illustrator
-   - **Key Features**:
-     - Luxurious cabin interiors with customizable layouts
-     - Advanced aerodynamics for fuel efficiency
-     - State-of-the-art entertainment and connectivity options
-     - Emphasis on safety and comfort for passenger
+#### 3. **Aviation VIP Aircraft Design**  ✈️
+   - **🔍 Description**: This project involves designing a concept for a **VIP aircraft** that emphasizes luxury and functionality. The design process includes interior layout planning, material selection, and user experience optimization for high-profile clients.
+
 
 ## 📫 Connect with Me
 
