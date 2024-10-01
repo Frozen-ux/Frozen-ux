@@ -66,7 +66,7 @@ Here are some frameworks I love to work with:
 
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/Frozen-ux/project1) - A brief description of what this project does.
+- [Project 1](https://github.com/Frozen-ux/Shakthi) - A brief description of what this project does.
 - [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
 - [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
 
@@ -76,7 +76,7 @@ Feel free to connect with me on social media!
 
 - [LinkedIn](https://linkedin.com/in/yourprofile)  
 - [Twitter](https://twitter.com/yourprofile)  
-- [Website](https://yourwebsite.com)  
+- [Website](https://Frozen-ux.com)  
 
 ---
 
