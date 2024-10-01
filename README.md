@@ -6,11 +6,11 @@
 
 Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. My journey in tech has been as cool as ice! ❄️
 
-- 🔭 I’m currently working on [Project Name](https://github.com/yourusername/projectname)
-- 🌱 I’m currently learning **[New Technology/Language]**
+- 🔭 I’m currently working on [Project Name](https://github.com/Frozen-ux/HeroFashion)
+- 🌱 I’m currently learning **[AI Engineering/Springboot]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **anything related to programming!**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
 - ⚡ Fun fact: I love ice skating! ⛸️
 
 ## 🛠️ Languages and Frameworks
@@ -57,14 +57,14 @@ Here are some frameworks I love to work with:
 
 ## 🌈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blue-green)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=blue-green)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=blue-green)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-ux&layout=compact&theme=blue-green)
 
 ## 🎨 Designs & Projects
 
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project does.
+- [Project 1](https://github.com/Frozen-ux/project1) - A brief description of what this project does.
 - [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
 - [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
 
