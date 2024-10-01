@@ -55,11 +55,11 @@ Here are some frameworks I love to work with:
 9. ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) Ruby on Rails
 10. ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Laravel
 
-## 🌈 GitHub Stats
+##  GitHub Stats
+[Tharushlk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharushlk&show_icons=true&theme=blue-green)  
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushlk&layout=compact&theme=blue-green)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=blue-green)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-ux&layout=compact&theme=blue-green)
-
+## 🎨 Designs & Projects
 ## 🎨 Designs & Projects
 
 Here are some of my favorite projects:
