@@ -58,7 +58,7 @@ I’m a future-oriented **Software Engineer** passionate about the latest innova
 <p align="center">
   <a href="https://www.linkedin.com/in/frozen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Frozen-00e6ff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Frozen-00e6ff?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-YourEmail-00e6ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:thehanahbi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-YourEmail-00e6ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -83,10 +83,6 @@ I’m a future-oriented **Software Engineer** passionate about the latest innova
 
 ---
 
-## 🎞️ Java Animation
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/208862/screenshots/14573501/media/456f27c6f543f3a15e9f88b6ec6c62b7.gif" alt="Java Animation" width="300"/>
-</p>
 
 
 <!---
