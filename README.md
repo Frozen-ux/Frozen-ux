@@ -1,7 +1,7 @@
 <!-- Futuristic Background Image -->
-<img src="https://your-uploaded-background-image-link" alt="Futuristic Background" width="100%" height="300" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 230, 255, 0.5);"/>
+<img src="https://your-background-image-link" alt="Futuristic Background" width="100%" height="300" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 230, 255, 0.5);"/>
 
-<h1 align="center" style="color: #00e6ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🌿 Welcome to <a href="https://github.com/Frozen" target="_blank" style="color: #00e6ff; text-decoration: none;">Agri Shakthi Retail Eshop</a> 🚀</h1>
+<h1 align="center" style="color: #00e6ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🌌 Welcome to <a href="https://github.com/Frozen" target="_blank" style="color: #00e6ff; text-decoration: none;">Frozen's</a> Futuristic Space 🚀</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/your-image-link" alt="Frozen" width="150" style="border-radius: 50%; box-shadow: 0 0 15px cyan, 0 0 25px silver;"/>
@@ -17,7 +17,29 @@
 
 ## 🌠 About Me
 <p align="center" style="color: #f0f0f0; font-family: 'Segoe UI', sans-serif;">
-I am a **forward-thinking Software Engineer**, passionate about creating innovative solutions for the **Agri Shakthi Retail Eshop**. My focus lies in enhancing agricultural retail experiences through cutting-edge technology.
+I am a **forward-thinking Software Engineer**, crafting innovative solutions in **AI**, **Full-Stack Development**, and **Neural Computing**. Currently working on enhancing future tech with **Quantum Computing** while building next-gen software.
+</p>
+
+---
+
+## 🌿 About Agri Shakthi E-Shop
+
+<p align="center" style="color: #f0f0f0; font-family: 'Segoe UI', sans-serif;">
+Agri Shakthi is my latest venture into the world of **retail e-commerce**, focusing on providing a diverse range of agricultural products directly to consumers. Our mission is to empower local farmers and promote sustainable agricultural practices. 
+
+### Key Features:
+- **Wide Range of Products**: From seeds to gardening tools and organic fertilizers.
+- **User-Friendly Interface**: Designed for seamless navigation and an enjoyable shopping experience.
+- **Secure Transactions**: Implementing robust payment gateways to ensure customer safety.
+- **Real-Time Tracking**: Allowing customers to track their orders from purchase to delivery.
+
+### Tech Stack:
+- **Frontend**: React.js
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Payment Gateway**: Stripe API
+
+Feel free to check out the project here: [Agri Shakthi E-Shop](https://github.com/Frozen/agri-shakthi)
 </p>
 
 ---
@@ -64,8 +86,8 @@ I am a **forward-thinking Software Engineer**, passionate about creating innovat
 ---
 
 ## 🔥 Highlighted Projects
-- **[Agri Shakthi Retail Eshop](https://github.com/Frozen/project1)**: Transforming the agricultural retail experience with technology.
-- **[Smart Farming Solutions](https://github.com/Frozen/project2)**: Implementing IoT solutions for efficient farming.
+- **[AR E-commerce Platform](https://github.com/Frozen/project1)**: Revolutionizing online shopping with **Augmented Reality**.
+- **[Smart School System](https://github.com/Frozen/project2)**: Simplifying school management with **AI** and automation.
 
 ---
 
