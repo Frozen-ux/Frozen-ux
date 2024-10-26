@@ -6,7 +6,7 @@
 
 Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. My journey in tech has been as cool as ice! ❄️
 
-- 🔭 I’m currently working on [Project Name](https://github.com/Frozen-ux/HeroFashion)
+- 🔭 I’m currently working on https://github.com/Frozen-ux/HeroFashion
 - 🌱 I’m currently learning **[AI Engineering/Springboot]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **anything related to programming!**
@@ -66,22 +66,19 @@ Here are some of my favorite projects:
  1. **Retail ERP Management System**  🛒
    - **🔍 Description**: This project aims to develop a comprehensive **Enterprise Resource Planning (ERP)** system tailored for retail businesses. The system integrates various modules, including inventory management, sales tracking, customer relationship management, and reporting features to enhance operational efficiency.
   ---
-     #### 2. **Concrete Business Management System**  🏗️
+    2. **Concrete Business Management System**  🏗️
    - **🔍 Description**: This project focuses on creating a management system for a concrete supply business. It streamlines the order processing, production scheduling, and delivery management processes, ensuring timely delivery and better resource allocation.
     
 
 ---
 
-#### 3. **Aviation VIP Aircraft Design**  ✈️
-   - **🔍 Description**: This project involves designing a concept for a **VIP aircraft** that emphasizes luxury and functionality. The design process includes interior layout planning, material selection, and user experience optimization for high-profile clients.
 
 
 ## 📫 Connect with Me
 
 Feel free to connect with me on social media!
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourprofile)  
+- [LinkedIn](https://linkedin.com/in/yourprofile)   
 - [Website](https://Frozen-ux.com)  
 
 ---
