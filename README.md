@@ -66,13 +66,7 @@ Here are some of my favorite projects:
  1. **Retail ERP Management System**  🛒
    - **🔍 Description**: This project aims to develop a comprehensive **Enterprise Resource Planning (ERP)** system tailored for retail businesses. The system integrates various modules, including inventory management, sales tracking, customer relationship management, and reporting features to enhance operational efficiency.
   ---
-    2. **Concrete Business Management System**  🏗️
-   - **🔍 Description**: This project focuses on creating a management system for a concrete supply business. It streamlines the order processing, production scheduling, and delivery management processes, ensuring timely delivery and better resource allocation.
-    
-
----
-
-
+  
 
 ## 📫 Connect with Me
 
