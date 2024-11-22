@@ -24,22 +24,12 @@ Here are some of the languages I work with:
 3. ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Java
 4. ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) C#
 5. ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) C++
-6. ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) Ruby
-7. ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) Go
 8. ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) Swift
 9. ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B7?style=flat-square&logo=kotlin&logoColor=white) Kotlin
 10. ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
 11. ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) TypeScript
 12. ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) SQL
-13. ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) Rust
-14. ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat-square&logo=dart&logoColor=white) Dart
-15. ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnu-bash&logoColor=black) Shell
-16. ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) R
-17. ![Scala](https://img.shields.io/badge/Scala-EF5B24?style=flat-square&logo=scala&logoColor=white) Scala
-18. ![Perl](https://img.shields.io/badge/Perl-0298C3?style=flat-square&logo=perl&logoColor=white) Perl
-19. ![Objective-C](https://img.shields.io/badge/Objective--C-007AFF?style=flat-square&logo=objectivec&logoColor=white) Objective-C
-20. ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) Lua
-
+    
 ### ⚙️ Frameworks
 
 Here are some frameworks I love to work with:
