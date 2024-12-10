@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. My journey in tech has been as cool as ice! ❄️ (Let's use a modern symbol: 🌟)
+Hello! I'm a passionate Software Engineer creating innovative solutions and exploring the latest technologies. 
 
 - I’m currently working on [HeroFashion](https://github.com/Frozen-ux/HeroFashion)
 - How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
