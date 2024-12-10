@@ -1,5 +1,6 @@
 <div style="background: linear-gradient(to bottom, black, white); padding: 20px; color:white;">
-![Uploading pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral.jpg…]()
+![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/8c03ddf5-c219-4b7a-ad57-dc3a243c2b19)
+
 
 <img src="C:\Users\hp\Documents\digiLibrary\lib" alt="Logo" style="width: 100px; height: auto;">
 
