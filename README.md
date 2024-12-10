@@ -1,6 +1,7 @@
 <div style="background-image: url('background.png'); background-size: cover; padding: 20px;">
 #  Welcome to My Frozen GitHub Profile! ❄️
-  !(Downloads)
+
+![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/ffcdc625-9939-41af-b88a-6e109ebc3bb6)
 
 ##  About Me
 
@@ -10,7 +11,7 @@ My journey in tech has been as cool as ice! ❄️
 -  I’m currently working on https://github.com/Frozen-ux/HeroFashion
 -  How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
 
-## 🛠️ Languages and Frameworks
+##  Languages and Frameworks
 
 ###  Programming Languages
 
