@@ -7,9 +7,6 @@
 Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. My journey in tech has been as cool as ice! ❄️
 
 - 🔭 I’m currently working on https://github.com/Frozen-ux/HeroFashion
-- 🌱 I’m currently learning **[AI Engineering/Springboot]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **anything related to programming!**
 - 📫 How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
 - ⚡ Fun fact: I love ice skating! ⛸️
 
@@ -24,7 +21,7 @@ Here are some of the languages I work with:
 3. ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Java
 4. ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) C#
 5. ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) C++
-8. ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) Swift
+8. *![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) Swift*
 9. ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B7?style=flat-square&logo=kotlin&logoColor=white) Kotlin
 10. ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
 11. ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) TypeScript
