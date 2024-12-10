@@ -1,7 +1,8 @@
-<div style="background-image: url('background.png'); background-size: cover; background-repeat: no-repeat; width: 100%; height: auto; padding: 20px; color: white;">
+<div style="background-color: black; padding: 20px; color: white;">
+
+<img src="logo.png" alt="HeroFashion Logo" style="width: 100px; height: auto;">
 
 # Welcome to My Frozen GitHub Profile!
-![HeroFashion Logo](https://github.com/user-attachments/assets/620e016a-4800-465e-829a-1069dc619741)
 
 ## About Me
 
@@ -52,6 +53,3 @@ Feel free to connect with me on social media!
 - [Website](https://Frozen-ux.com)
 
 </div>
-
-
-
