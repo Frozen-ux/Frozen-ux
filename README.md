@@ -1,10 +1,10 @@
 # ❄️ Welcome to My Frozen GitHub Profile! ❄️
-
-![GitHub Banner](https://via.placeholder.com/1200x200/1e90ff/ffffff?text=Welcome+to+My+Frozen+GitHub+Profile!)  
+  
 
 ## 🌟 About Me
 
-Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. My journey in tech has been as cool as ice! ❄️
+Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies.
+My journey in tech has been as cool as ice! ❄️
 
 - 🔭 I’m currently working on https://github.com/Frozen-ux/HeroFashion
 - 📫 How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
@@ -46,14 +46,6 @@ Here are some frameworks I love to work with:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=blue-green)  
 
 
-## 🎨 Designs & Projects
-
-Here are some of my favorite projects:
-
- 1. **Retail ERP Management System**  🛒
-   - **🔍 Description**: This project aims to develop a comprehensive **Enterprise Resource Planning (ERP)** system tailored for retail businesses. The system integrates various modules, including inventory management, sales tracking, customer relationship management, and reporting features to enhance operational efficiency.
-  ---
-  
 
 ## 📫 Connect with Me
 
