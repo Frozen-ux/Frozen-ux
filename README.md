@@ -1,18 +1,18 @@
+<div style="background-image: url('background.png'); background-size: cover; background-repeat: no-repeat; width: 100%; height: auto; padding: 20px; color: white;">
 
-#  Welcome to My Frozen GitHub Profile! 
-![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral])((https://github.com/user-attachments/assets/620e016a-4800-465e-829a-1069dc619741); background-size: 100px 300px; background-repeat: no-repeat; width: 100%; height: 300px; padding: 20px);
+# Welcome to My Frozen GitHub Profile!
+![HeroFashion Logo](https://github.com/user-attachments/assets/620e016a-4800-465e-829a-1069dc619741)
 
-##  About Me
+## About Me
 
-Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies.
-My journey in tech has been as cool as ice! ❄️
+Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. My journey in tech has been as cool as ice! ❄️
 
--  I’m currently working on https://github.com/Frozen-ux/HeroFashion
--  How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
+- I’m currently working on [HeroFashion](https://github.com/Frozen-ux/HeroFashion)
+- How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
 
-##  Languages and Frameworks
+## Languages and Frameworks
 
-###  Programming Languages
+### Programming Languages
 
 Here are some of the languages I work with:
 
@@ -21,12 +21,12 @@ Here are some of the languages I work with:
 3. ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Java
 4. ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) C#
 5. ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) C++
-8. *![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) Swift*
-9. ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B7?style=flat-square&logo=kotlin&logoColor=white) Kotlin
-10. ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
-11. ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) TypeScript
-12. ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) SQL
-    
+6. ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) Swift
+7. ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B7?style=flat-square&logo=kotlin&logoColor=white) Kotlin
+8. ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
+9. ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) TypeScript
+10. ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) SQL
+
 ### ⚙ Frameworks
 
 Here are some frameworks I love to work with:
@@ -43,25 +43,15 @@ Here are some frameworks I love to work with:
 10. ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Laravel
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=white-black)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=white-black)
 
-
-
-##  Connect with Me
+## Connect with Me
 Feel free to connect with me on social media!
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)   
-- [Website](https://Frozen-ux.com)  
-
----
-
-Thank you for visiting my profile! Let's build something amazing together! ❄️
-
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Website](https://Frozen-ux.com)
 
 </div>
 
-<!---
-Frozen-ux/Frozen-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
