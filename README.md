@@ -1,6 +1,6 @@
 <div style="background-color: black; padding: 20px; color: white;">
 
-<img src="![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/19289cfa-1f3f-4d8e-898a-5822295203f5)
+<img src="https://github.com/user-attachments/assets/19289cfa-1f3f-4d8e-898a-5822295203f5
 "  style="width: 100px; height: auto;">
 
 # Welcome to My Frozen GitHub Profile!
