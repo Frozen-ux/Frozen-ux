@@ -1,6 +1,7 @@
-<div style="background-image: url('![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cea65556-2466-4e89-80b2-8fe61f8745fd)
+('![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cea65556-2466-4e89-80b2-8fe61f8745fd)
 '); background-size: cover; padding: 20px;">
 #  Welcome to My Frozen GitHub Profile! 
+![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/620e016a-4800-465e-829a-1069dc619741)
 
 ##  About Me
 
