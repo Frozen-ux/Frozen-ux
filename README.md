@@ -1,19 +1,19 @@
 
 
-# Welcome to My Frozen GitHub Profile❄
+# Welcome to My Frozen GitHub Profile
 ![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cc430546-9ce7-4b4d-b629-68821cf67e72)
 
 
 ## About Me
 
-Hello! I'm a passionate Software Engineer creating innovative solutions and exploring the latest technologies. ❄
+Hello! I'm a passionate Software Engineer creating innovative solutions and exploring the latest technologies. 
 
 - I’m currently working on [HeroFashion](https://github.com/Frozen-ux/HeroFashion)
 - How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
 
-## Languages and Frameworks❄️
+## Languages and Frameworks
 
-### Programming Languages❄️
+### Programming Languages
 
 Here are some of the languages I work with:
 
@@ -28,7 +28,7 @@ Here are some of the languages I work with:
 9. ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) TypeScript
 10. ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) SQL
 
-###  Frameworks❄️
+###  Frameworks
 
 Here are some frameworks I love to work with:
 
@@ -43,7 +43,7 @@ Here are some frameworks I love to work with:
 9. ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) Ruby on Rails
 10. ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Laravel
 
-## GitHub Stats❄️
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=white-black)
 
 ## Connect with Me
