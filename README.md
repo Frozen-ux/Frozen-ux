@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(to bottom, black, white); padding: 20px; color:>
+<div style="background: linear-gradient(to bottom, black, white); padding: 20px; color:">
 
 <img src="C:\Users\hp\Documents\digiLibrary\lib" alt="Logo" style="width: 100px; height: auto;">
 
