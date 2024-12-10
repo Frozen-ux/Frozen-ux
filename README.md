@@ -1,7 +1,8 @@
-<div style="background: linear-gradient(to bottom, black, white); padding: 20px; color:white;">
-![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/fe2f9142-cafd-4e67-aa88-26bda6b6f14d)
+
 
 # Welcome to My Frozen GitHub Profile❄️
+![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cc430546-9ce7-4b4d-b629-68821cf67e72)
+
 
 ## About Me
 
@@ -51,5 +52,5 @@ Feel free to connect with me on social media!
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Website](https://Frozen-ux.com)
 
-</div>
+
 
