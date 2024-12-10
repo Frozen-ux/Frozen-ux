@@ -1,8 +1,5 @@
 <div style="background: linear-gradient(to bottom, black, white); padding: 20px; color:white;">
-![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/8c03ddf5-c219-4b7a-ad57-dc3a243c2b19)
-
-
-<img src="C:\Users\hp\Documents\digiLibrary\lib" alt="Logo" style="width: 100px; height: auto;">
+![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/fe2f9142-cafd-4e67-aa88-26bda6b6f14d)
 
 # Welcome to My Frozen GitHub Profile❄️
 
