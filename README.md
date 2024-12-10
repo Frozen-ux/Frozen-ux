@@ -1,7 +1,6 @@
-('![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cea65556-2466-4e89-80b2-8fe61f8745fd)
-'); background-size: cover; padding: 20px;">
+
 #  Welcome to My Frozen GitHub Profile! 
-![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/620e016a-4800-465e-829a-1069dc619741)
+![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/620e016a-4800-465e-829a-1069dc619741); background-size: 100px 300px; background-repeat: no-repeat; width: 100%; height: 300px; padding: 20px;">
 
 ##  About Me
 
