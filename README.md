@@ -1,12 +1,13 @@
 
+<div style="background: linear-gradient(to bottom, black, white); padding: 20px; color: white; text-align: center;">
 
-# Welcome to My Frozen GitHub Profile
+# Welcome to My Frozen GitHub Profile!
 ![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cc430546-9ce7-4b4d-b629-68821cf67e72)
 
 
 ## About Me
 
-Hello! I'm a passionate Software Engineer creating innovative solutions and exploring the latest technologies. 
+Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. My journey in tech has been as cool as ice! ❄️ (Let's use a modern symbol: 🌟)
 
 - I’m currently working on [HeroFashion](https://github.com/Frozen-ux/HeroFashion)
 - How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
@@ -28,7 +29,7 @@ Here are some of the languages I work with:
 9. ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) TypeScript
 10. ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) SQL
 
-###  Frameworks
+### ⚙ Frameworks
 
 Here are some frameworks I love to work with:
 
@@ -52,5 +53,5 @@ Feel free to connect with me on social media!
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Website](https://Frozen-ux.com)
 
-
+</div>
 
