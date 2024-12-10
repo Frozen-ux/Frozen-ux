@@ -1,5 +1,6 @@
+<div style="background-image: url('background.png'); background-size: cover; padding: 20px;">
 #  Welcome to My Frozen GitHub Profile! ❄️
-  
+  !(Downloads)
 
 ##  About Me
 
@@ -57,9 +58,10 @@ Feel free to connect with me on social media!
 Thank you for visiting my profile! Let's build something amazing together! ❄️
 
 
-
+</div>
 
 <!---
 Frozen-ux/Frozen-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
