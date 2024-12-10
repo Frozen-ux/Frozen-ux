@@ -1,6 +1,7 @@
 <div style="background-color: black; padding: 20px; color: white;">
 
-<img src="logo.png" alt="HeroFashion Logo" style="width: 100px; height: auto;">
+<img src="![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/19289cfa-1f3f-4d8e-898a-5822295203f5)
+"  style="width: 100px; height: auto;">
 
 # Welcome to My Frozen GitHub Profile!
 
@@ -35,21 +36,3 @@ Here are some frameworks I love to work with:
 1. ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React
 2. ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) Node.js
 3. ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) Django
-4. ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) Flask
-5. ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) Spring
-6. ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) Angular
-7. ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) Vue.js
-8. ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=asp.net&logoColor=white) ASP.NET
-9. ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white) Ruby on Rails
-10. ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Laravel
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frozen-ux&show_icons=true&theme=white-black)
-
-## Connect with Me
-Feel free to connect with me on social media!
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Website](https://Frozen-ux.com)
-
-</div>
