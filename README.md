@@ -1,7 +1,6 @@
-<div style="background-image: url('background.png'); background-size: cover; padding: 20px;">
-#  Welcome to My Frozen GitHub Profile! ❄️
-
-![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/ffcdc625-9939-41af-b88a-6e109ebc3bb6)
+<div style="background-image: url('![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cea65556-2466-4e89-80b2-8fe61f8745fd)
+'); background-size: cover; padding: 20px;">
+#  Welcome to My Frozen GitHub Profile! 
 
 ##  About Me
 
