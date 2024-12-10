@@ -1,4 +1,5 @@
 <div style="background: linear-gradient(to bottom, black, white); padding: 20px; color:white;">
+![Uploading pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral.jpg…]()
 
 <img src="C:\Users\hp\Documents\digiLibrary\lib" alt="Logo" style="width: 100px; height: auto;">
 
@@ -6,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm a passionate Software Engineer with a love for creating innovative solutions and exploring the latest technologies. ❄️
+Hello! I'm a passionate Software Engineer creating innovative solutions and exploring the latest technologies. ❄️
 
 - I’m currently working on [HeroFashion](https://github.com/Frozen-ux/HeroFashion)
 - How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
