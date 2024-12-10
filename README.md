@@ -1,6 +1,6 @@
 <div style="background-color: black; padding: 20px; color: white;">
 
-<img src="logo.png" alt="HeroFashion Logo" style="width: 100px; height: auto;">
+<img src="C:\Users\hp\Documents\digiLibrary\lib" alt="HeroFashion Logo" style="width: 100px; height: auto;">
 
 # Welcome to My Frozen GitHub Profile!
 
