@@ -1,12 +1,12 @@
 
 
-# Welcome to My Frozen GitHub Profile❄️
+# Welcome to My Frozen GitHub Profile❄
 ![pikaso_texttoimage_digital-painting-A-black-and-white-abstract-spiral](https://github.com/user-attachments/assets/cc430546-9ce7-4b4d-b629-68821cf67e72)
 
 
 ## About Me
 
-Hello! I'm a passionate Software Engineer creating innovative solutions and exploring the latest technologies. ❄️
+Hello! I'm a passionate Software Engineer creating innovative solutions and exploring the latest technologies. ❄
 
 - I’m currently working on [HeroFashion](https://github.com/Frozen-ux/HeroFashion)
 - How to reach me: [thehanabhi@example.com](mailto:thehanahbi@example.com)
